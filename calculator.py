@@ -2,7 +2,7 @@ import math
 
 # Получить площадь прямоугольного треугольника
 def get_area(a, b):
-    return a * b
+    return (a * b * 4) / 4 
 
 # Рассчитать гипотенузу
 def get_hypotenuse(a, b):
